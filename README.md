@@ -17,27 +17,10 @@ I’m particularly interested in **Quantum Information Systems, Artificial Intel
 
 ---
 
-Connect with Me
+📬 Connect with Me
+www.linkedin.com/in/al-amin-arnob
 
-<!-- Using Shields.io with the 'for-the-badge' style for a button-like look. -->
-
-<p align="center">
-<!-- Email Button -->
-<a href="mailto:arnob.cse.gub@gmail.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-arnob.cse.gub%40gmail.com-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"
-alt="Email arnob.cse.gub@gmail.com" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- LinkedIn Button -->
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/al-amin-arnob" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Al--Amin%2520Arnob-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite"
-alt="LinkedIn Al-Amin Arnob" />
-</a>
-</p>
-
-<p align="center">
-Feel free to reach out for collaborations, discussions on software development, or just to say hello!
-</p>
+arnob.cse.gub@gmail.com
 
 ---
 
