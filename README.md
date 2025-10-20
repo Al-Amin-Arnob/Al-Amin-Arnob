@@ -6,19 +6,17 @@ Welcome to my GitHub! I am passionate about exploring cutting-edge technologies 
 
 I’m particularly interested in Quantum Information Systems, Artificial Intelligence, and computational research, driven by a curiosity to understand how these fields can shape the future of technology.
 
+🎓 About Me
+
 💻 Exploring Quantum Information System 
 👀 Interest: AI, ML, Quantum Machine Learning  
 🌱 Learning: Deep Learning, Streamlit, and Generative AI  
 
-## 🔧 Skills
-- Python | Java | C++  
-- React | Node.js | Streamlit  
-- Machine Learning | Data Science  
 
-📬 Connect with Me
+## 📬 Connect with Me
 
-LinkedIn: www.linkedin.com/in/al-amin-arnob
-Email: arnob.cse.gub@gmail.com 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/al-amin-arnob)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:arnob.cse.gub@gmail.com)
 
 ✨ Fun Fact
 
