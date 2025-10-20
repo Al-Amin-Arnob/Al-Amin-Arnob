@@ -19,8 +19,15 @@ I’m particularly interested in **Quantum Information Systems, Artificial Intel
 
 ## 📬 Connect with Me
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="25"/> LinkedIn](https://www.linkedin.com/in/al-amin-arnob)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="25"/> Email](mailto:arnob.cse.gub@gmail.com)
+<a href="https://www.linkedin.com/in/al-amin-arnob" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" 
+       alt="LinkedIn" width="25" style="color:#0A66C2; filter: invert(0);"/> LinkedIn
+</a>  
+
+<a href="mailto:arnob.cse.gub@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" 
+       alt="Email" width="25" style="color:#D14836; filter: invert(0);"/> Email
+</a>
 
 ---
 
