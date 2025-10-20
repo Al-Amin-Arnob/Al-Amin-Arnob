@@ -19,24 +19,23 @@ I’m particularly interested in **Quantum Information Systems, Artificial Intel
 
 Connect with Me
 
-<!-- The following uses Shields.io badges for a modern, minimalistic look with official logos -->
+<!-- This uses Shields.io to generate modern, crisp badges with official logos and colors. -->
 
 <p align="center">
 <!-- Email Badge -->
 <a href="mailto:arnob.cse.gub@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email: arnob.cse.gub@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-arnob.cse.gub%40gmail.com-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email: arnob.cse.gub@gmail.com">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <!-- LinkedIn Badge -->
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/al-amin-arnob">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn: Al-Amin Arnob">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Al--Amin%2520Arnob-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn: Al-Amin Arnob">
 </a>
 </p>
 
 <p align="center">
 Feel free to reach out for collaborations, discussions on software development, or just to say hello!
 </p>
-
 
 ---
 
