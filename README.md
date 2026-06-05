@@ -2,9 +2,9 @@
 
 **Undergraduate Computer Science Student | Emerging Tech Enthusiast | Research Explorer**
 
-Welcome to my GitHub! I am passionate about exploring cutting-edge technologies and contributing to research-driven projects. As the **Vice Chair of the IEEE Computer Society SBC at GUB**, I enjoy leading initiatives that foster innovation, collaboration, and hands-on learning.
+Welcome to my GitHub! I am passionate about exploring cutting-edge technologies and contributing to research-driven projects.
 
-I’m particularly interested in **Quantum Information Systems, Artificial Intelligence, and computational research**, driven by a curiosity to understand how these fields can shape the future of technology.
+I’m particularly interested in **Quantum Information Systems, Artificial Intelligence, Machine learning and computational research**, driven by a curiosity to understand how these fields can shape the future of technology.
 
 ---
 
